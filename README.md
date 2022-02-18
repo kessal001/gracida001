@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Solidity and Unity**
 
-- 💬 Ask me ** anything you like! **
+- 💬 Ask me **anything you like!**
 
 - 📫 How to reach me **luca.pedersoli@mail.polimi.it**
 
