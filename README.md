@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [a Trading Algorithm](https://github.com/gracida001/Trading-algorithm)
 
-- 🌱 I’m currently learning **Solidity and Unity**
+- 🌱 I’m currently learning **OpenGL**
 
 - 💬 Ask me **anything you like!**
 
