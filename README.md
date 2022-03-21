@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Luca Pedersoli</h1>
 <h3 align="center">A passionate software engineer from Italy</h3>
 
-- 🔭 I’m currently working on [a Trading Algorithm](https://github.com/gracida001/Trading-algorithm)
+- 🔭 I’m currently working on a OpenGL Engine
 
 - 🌱 I’m currently learning **OpenGL**
 
