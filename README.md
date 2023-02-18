@@ -4,7 +4,8 @@
   
 
 ### <div align="center">I'm Luca a bachelor's degree student and teacher👨‍💻🚀</div>  
-<br/>  
+<br/>
+
 - 🔭 I’m currently developing an **OpenGL Engine**
 
 - 🌱 I’m currently learning **OpenGL**
